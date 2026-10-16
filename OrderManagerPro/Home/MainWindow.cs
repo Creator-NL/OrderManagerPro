@@ -325,7 +325,7 @@ namespace OrderManagerPro
             TotalNotFoundResultLabel.Text = Convert.ToString(FoundNotSolved.Sum());
             decimal aaa = Convert.ToDecimal(FoundInquiries.Sum());
             decimal bbb = Convert.ToDecimal(FoundSolved.Sum());
-            decimal ABResult = bbb / aaa * 100;
+            decimal ABResult = aaa > 0 ? (bbb / aaa * 100) : 0;
             TotalFoundProcentLabel.Text = ABResult.ToString("0.#") + "%";
 
 
