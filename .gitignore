@@ -47,6 +47,7 @@ publish/
 Publish/
 **/publish/
 **/app.publish/
+installer/output/
 *.pfx
 *.publishproj
 
