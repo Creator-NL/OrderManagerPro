@@ -16,6 +16,10 @@
 
 Instead of tracking missing items, supplier shortages, or warehouse picking/receiving errors across scattered spreadsheets and emails, **OrderManagerPro** connects **Inbound**, **Stock Control**, and **Management** in a unified SQL-backed workflow — complete with automated financial threshold triage, linked-order detection, multi-language UI (`EN` / `NL` / `DE`), and executive KPI dashboards.
 
+[![Official Webpage](https://img.shields.io/badge/Webpage-biohazard--corp.nl%2Fordermanagerpro-00e5ff.svg)](https://biohazard-corp.nl/ordermanagerpro.html)
+
+![OrderManagerPro 14-Day Trend Chart](assets/ordermanagerpro-stats.png)
+
 ---
 
 ## Key Features
@@ -139,6 +143,7 @@ cd OrderManagerPro
 
 ## Official Links & Support
 
+- **Official Product Page:** [https://biohazard-corp.nl/ordermanagerpro.html](https://biohazard-corp.nl/ordermanagerpro.html)
 - **Official Website:** [https://biohazard-corp.nl](https://biohazard-corp.nl)
 - **GitHub Profile:** [@Creator-NL](https://github.com/Creator-NL)
 - **Sponsor / Donate:** [PayPal (@biohazardcorp)](https://paypal.me/biohazardcorp)
